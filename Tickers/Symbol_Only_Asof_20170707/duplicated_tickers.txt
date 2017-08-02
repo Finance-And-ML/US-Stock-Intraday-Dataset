@@ -1,0 +1,12 @@
+AMOV, nasdaq
+AMOV, nyse
+MSG , nasdaq
+MSG , nyse
+PGTI, nasdaq
+PGTI, nyse
+RRD , nasdaq
+RRD , nyse
+LLEX, nasdaq
+LLEX, nyse
+FCFS, nasdaq
+FCFS, nyse
