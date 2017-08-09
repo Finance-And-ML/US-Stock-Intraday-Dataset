@@ -1,12 +1,11 @@
 # US Stocks Intra-Day Stock Price Data
-## (NYSE, NASDAQ, AMEX)
 
-### Tickers Folder
-##### Complete List As Of 2017 July 07
-AMEX: 330 Stocks  
-NASDAQ: 3209 Stocks  
-NYSE: 2705 Stocks  
+### Please visit https://figshare.com/projects/US-Stock-Intraday-Dataset/23890 for all the latest data sets.
+#### Tickers:
+As of August 9th, 2017, tickers information from three major U.S. Exchanges: NYSE, NASDAQ, AMEX, are collected from http://www.nasdaq.com/screening/company-list.aspx.
 
-### Intraday-Data Folder
-##### 20170607_20170714_2minutes.tar.gz:  
-Stock Intra-Day Price from 2017 June 07 to 2017 July 14, interval mostly in 1 minute, sometimes 2 or 3 or 4 minutes.
+| Exchange | Number Of Tickers |
+|----------|-------------------|
+| NASDAQ   | 3209              |
+| NYSE     | 2705              |
+| AMEX     | 330               |
